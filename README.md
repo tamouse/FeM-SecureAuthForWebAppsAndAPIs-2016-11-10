@@ -1,5 +1,4 @@
 # Frontend Masters workshop Secure Authentication for Web Applications &amp; APIs with Ryan Chenkie
-
 * Co-Instructor: Ryan Chenkie
   * [website](http://ryanchenkie.com/)
   * [twitter](https://twitter.com/ryanchenkie)
