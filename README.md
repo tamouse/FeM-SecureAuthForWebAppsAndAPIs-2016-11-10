@@ -1,4 +1,5 @@
 # Frontend Masters workshop Secure Authentication for Web Applications &amp; APIs with Ryan Chenkie
+
 * Co-Instructor: Ryan Chenkie
   * [website](http://ryanchenkie.com/)
   * [twitter](https://twitter.com/ryanchenkie)
@@ -43,3 +44,5 @@ run the app. Make sure the application runs for you before starting.
 
 
 ## Other
+
+* [Postman](https://www.getpostman.com/) manually test and check your APIs
