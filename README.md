@@ -41,6 +41,9 @@ run the app. Make sure the application runs for you before starting.
 
 ## Videos
 
+### Day 1
+
+* [Segment 1](https://livestream.com/accounts/4894689/events/6617190/videos/141470376)
 
 
 ## Other
