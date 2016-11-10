@@ -44,36 +44,30 @@ run the app. Make sure the application runs for you before starting.
 ### Day 1
 
 * [Segment 1](https://livestream.com/accounts/4894689/events/6617190/videos/141470376)
-
 * [Segment 2](https://livestream.com/accounts/4894689/events/6617190/videos/141527296)
-
 * [Segment 3](https://livestream.com/accounts/4894689/events/6617190/videos/141530976)
-
 * [Segment 4](https://livestream.com/accounts/4894689/events/6617190/videos/141532145)
-
 * [Segment 5](https://livestream.com/accounts/4894689/events/6617190/videos/141540939)
-
 * [Segment 6](https://livestream.com/accounts/4894689/events/6617190/videos/141542893)
-
 * [Segment 7](https://livestream.com/accounts/4894689/events/6617190/videos/141546255)
-
 * [Segment 8](https://livestream.com/accounts/4894689/events/6617190/videos/141548044)
-
-
+* [Segment 9](https://livestream.com/accounts/4894689/events/6617190/videos/141549737)
 
 ## Other
 
 * [Postman](https://www.getpostman.com/) manually test and check your APIs
-
 * [JSON Web Encryption JWE](https://tools.ietf.org/html/draft-ietf-jose-json-web-encryption-40)
 * [JWT vs JWS vs JWE - What They Are and When to Use Which](https://securedb.co/community/jwt-vs-jws-vs-jwe/)
-
 * [Where to Store JWTs - Cookies vs HTML5 Web Storage  Stormpath](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
-
 * Background coding playlist: Spotify [Deep House Relax](https://open.spotify.com/user/spotify/playlist/7BixMZxL4bhgULJQ5wPbUz)
-
 * [javascript - Angular2 routing canActivate and AuthGuard JWT with user role parameter - Stack Overflow](http://stackoverflow.com/questions/38402776/angular2-routing-canactivate-and-authguard-jwt-with-user-role-parameter/39872345#39872345)
 
+### Further Reading
+
+* Auth0 Blog: [https://auth0.com/blog](https://auth0.com/blog)
+* JWT Standard (RFC 7519): [https://tools.ietf.org/html/rfc7519](https://tools.ietf.org/html/rfc7519)
+* OAuth 2.0 Framework (RFC 6749): [https://tools.ietf.org/html/rfc6749](https://tools.ietf.org/html/rfc6749)
+* OpenID Connect: [https://openid.net/connect/](https://openid.net/connect/)
 
 ### Fixes
 
