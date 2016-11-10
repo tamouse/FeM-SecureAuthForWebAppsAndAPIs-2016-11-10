@@ -63,6 +63,9 @@ run the app. Make sure the application runs for you before starting.
 
 * [Where to Store JWTs - Cookies vs HTML5 Web Storage  Stormpath](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
 
+* Background coding playlist: Spotify [Deep House Relax](https://open.spotify.com/user/spotify/playlist/7BixMZxL4bhgULJQ5wPbUz)
+
+
 ### Fixes
 
 #### ENOENT `.env` in React demo
