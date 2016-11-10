@@ -53,6 +53,7 @@ run the app. Make sure the application runs for you before starting.
 
 * [Segment 5](https://livestream.com/accounts/4894689/events/6617190/videos/141540939)
 
+* [Segment 6](https://livestream.com/accounts/4894689/events/6617190/videos/141542893)
 
 ## Other
 
