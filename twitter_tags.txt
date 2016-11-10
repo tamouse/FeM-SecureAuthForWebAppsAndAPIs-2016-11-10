@@ -1,1 +1,1 @@
-#SecureAuthForJSApps @frontendmasters @ryanchenkie @simpulton #LearnJS
+#SecureAuthForJSApps with @ryanchenkie and @simpulton at  @frontendmasters  #LearnJS
