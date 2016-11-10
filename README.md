@@ -12,7 +12,7 @@
 
 ## Links
 
-* Slides: [https://frontendmasters.com/assets/resources/ryanchenkie/secure-auth.pdf](https://frontendmasters.com/assets/resources/ryanchenkie/secure-auth.pdf)
+* Slides (final version): [http://onehungrymind.com/slides/fem-secure.pdf](http://onehungrymind.com/slides/fem-secure.pdf)
 
 ### Demo
 
@@ -40,6 +40,8 @@ run the app. Make sure the application runs for you before starting.
 
 
 ## Videos
+
+* [Secure Auth on Livestream](https://livestream.com/accounts/4894689/events/6617190)
 
 ### Day 1
 
