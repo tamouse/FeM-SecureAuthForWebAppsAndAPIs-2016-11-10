@@ -72,7 +72,14 @@ run the app. Make sure the application runs for you before starting.
 
 * Background coding playlist: Spotify [Deep House Relax](https://open.spotify.com/user/spotify/playlist/7BixMZxL4bhgULJQ5wPbUz)
 
+* [javascript - Angular2 routing canActivate and AuthGuard JWT with user role parameter - Stack Overflow](http://stackoverflow.com/questions/38402776/angular2-routing-canactivate-and-authguard-jwt-with-user-role-parameter/39872345#39872345)
+
+
 ### Fixes
+
+**NOTE** The repositories are all up to date now, these fixes have
+been applied.
+
 
 #### ENOENT `.env` in React demo
 
