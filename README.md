@@ -57,6 +57,10 @@ run the app. Make sure the application runs for you before starting.
 
 * [Segment 7](https://livestream.com/accounts/4894689/events/6617190/videos/141546255)
 
+* [Segment 8](https://livestream.com/accounts/4894689/events/6617190/videos/141548044)
+
+
+
 ## Other
 
 * [Postman](https://www.getpostman.com/) manually test and check your APIs
