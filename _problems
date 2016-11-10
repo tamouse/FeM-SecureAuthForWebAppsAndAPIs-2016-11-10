@@ -20,3 +20,9 @@ Brandon B less than a minute ago
 @Robert change "login" to "signup" on this line: https://github.com/chenkie/react-user-authentication/blob/master/src/views/Main/Login/Login.js#L47
 
 --------------------------------------------------------------------------------
+
+
+Francois G about a minute ago
+can you describe how you refresh the token once it has expired without impacting the user experience?
+
+--------------------------------------------------------------------------------

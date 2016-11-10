@@ -49,6 +49,8 @@ run the app. Make sure the application runs for you before starting.
 
 * [Segment 3](https://livestream.com/accounts/4894689/events/6617190/videos/141530976)
 
+* [Segment 4](https://livestream.com/accounts/4894689/events/6617190/videos/141532145)
+
 
 ## Other
 
@@ -57,6 +59,7 @@ run the app. Make sure the application runs for you before starting.
 * [JSON Web Encryption JWE](https://tools.ietf.org/html/draft-ietf-jose-json-web-encryption-40)
 * [JWT vs JWS vs JWE - What They Are and When to Use Which](https://securedb.co/community/jwt-vs-jws-vs-jwe/)
 
+* [Where to Store JWTs - Cookies vs HTML5 Web Storage  Stormpath](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
 
 ### Fixes
 
