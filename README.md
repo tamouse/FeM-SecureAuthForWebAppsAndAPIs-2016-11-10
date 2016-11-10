@@ -47,6 +47,7 @@ run the app. Make sure the application runs for you before starting.
 
 * [Segment 2](https://livestream.com/accounts/4894689/events/6617190/videos/141527296)
 
+* [Segment 3](https://livestream.com/accounts/4894689/events/6617190/videos/141530976)
 
 
 ## Other
