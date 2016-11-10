@@ -1,16 +1,7 @@
 
-9:24:
-
 Francois G 6 minutes ago
 { Error: ENOENT: no such file or directory, open '.env'
 Is that missing ".env" file optional?
-
-Devon T 5 minutes ago
-is the SECRET_KEY in the setup instructions something we choose?
-
-Mike J 5 minutes ago
-anyone using a windows machine and having issues installing/building bcrypt when npm installing?
-
 
 Alex S 2 minutes ago
 having issues with running the react version { Error: ENOENT: no such file or directory, open '.env'
@@ -19,5 +10,13 @@ at Error (native)
 Solution:
 
 Create an empty `.env` at the root of your project.
+
+--------------------------------------------------------------------------------
+
+Robert B about a minute ago
+can you post the react code change
+
+Brandon B less than a minute ago
+@Robert change "login" to "signup" on this line: https://github.com/chenkie/react-user-authentication/blob/master/src/views/Main/Login/Login.js#L47
 
 --------------------------------------------------------------------------------

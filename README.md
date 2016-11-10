@@ -49,3 +49,39 @@ run the app. Make sure the application runs for you before starting.
 ## Other
 
 * [Postman](https://www.getpostman.com/) manually test and check your APIs
+
+### Fixes
+
+#### ENOENT `.env` in React demo
+
+* **Problem:** Receiving error ` Error: ENOENT: no such file or directory, open '.env'`
+
+* **Solution:** Create an (empty) `.env` file at the project root:
+
+```bash
+touch .env
+```
+
+
+#### Bug in React code
+
+Change "login" to "signup" on this line: https://github.com/chenkie/react-user-authentication/blob/master/src/views/Main/Login/Login.js#L47 (via user Brandon B on chat)
+
+```javascript
+  onSignupSubmit(event) {
+    event.preventDefault()
+    const { username, email, password } = this.state
+    if (username && email && password) {
+      // this.props.auth.login(username, email, password) // <= OLD, INCORRECT
+      this.props.auth.signup(username, email, password) // <= NEW, CORRECT
+        .then(result => {
+          if (!result.token) {
+            this.setState({signupError: result.message})
+            return
+          }
+          this.props.auth.finishAuthentication(result.token)
+          this.context.router.push('/profile')
+        })
+    }
+  }
+```
