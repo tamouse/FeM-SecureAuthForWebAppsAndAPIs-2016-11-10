@@ -50,6 +50,9 @@ run the app. Make sure the application runs for you before starting.
 
 * [Postman](https://www.getpostman.com/) manually test and check your APIs
 
+* [JSON Web Encryption JWE](https://tools.ietf.org/html/draft-ietf-jose-json-web-encryption-40)
+
+
 ### Fixes
 
 #### ENOENT `.env` in React demo
